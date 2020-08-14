@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😄 Glad for the visit! Take a popcorn and go carefully.
+
+💬 Social Medias
+  - 🐤 @brenoxzz
+  - Discord: brenoxzz#2818
+
