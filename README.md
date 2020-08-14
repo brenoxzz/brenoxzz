@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 Glad for the visit! Take a popcorn and go carefully.
+# 😄 Glad for the visit! Take a popcorn and go carefully.
 
-💬 Social Medias
+## 💬 Social Medias
   - 🐤 @brenoxzz
   - Discord: brenoxzz#2818
 
